@@ -1,14 +1,14 @@
 # jpa03-samar1409
 
-github repo:https://github.com/ucsb-cs156-w22/jpa03-samar1409
+github repo:<https://github.com/ucsb-cs156-w22/jpa03-samar1409>
 
 Badge:
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-samar1409/branch/master/graph/badge.svg?token=TUivGBltGv)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-samar1409)
 
 Storybook is here:
 
-- Production: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs/storybook>
-- QA: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs-qa/storybook>
+- Production: <https://github.com/ucsb-cs156-w22/jpa03-samar1409-docs>
+- QA: <https://github.com/ucsb-cs156-w22/jpa03-samar1409-docs-qa>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
