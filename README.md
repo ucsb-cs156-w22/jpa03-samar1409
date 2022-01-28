@@ -3,11 +3,7 @@
 github repo:https://github.com/ucsb-cs156-w22/jpa03-samar1409
 
 Badge:
-
-      <a href="https://codecov.io/gh/ucsb-cs156-w22/jpa03-samar1409">
-        <img src="https://codecov.io/gh/ucsb-cs156-w22/jpa03-samar1409/branch/master/graph/badge.svg?token=TUivGBltGv"/>
-      </a>
-    
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-samar1409/branch/master/graph/badge.svg?token=TUivGBltGv)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-samar1409)
 
 Storybook is here:
 
