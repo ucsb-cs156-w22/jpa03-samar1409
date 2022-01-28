@@ -1,6 +1,6 @@
 # jpa03-samar1409
 
-github repo:<https://github.com/ucsb-cs156-w22/jpa03-samar1409>
+github repo: <https://github.com/ucsb-cs156-w22/jpa03-samar1409>
 
 Badge:
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-samar1409/branch/master/graph/badge.svg?token=TUivGBltGv)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-samar1409)
